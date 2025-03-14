@@ -25,8 +25,8 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/yourusername/neurocopy.git
-cd neurocopy
+git clone https://github.com/wsgp2/---NeuroCopy---AI-Sales-Assistant-Builder--SergD-.git
+cd ---NeuroCopy---AI-Sales-Assistant-Builder--SergD-
 ```
 
 ### 2. Установка зависимостей
@@ -147,7 +147,7 @@ python telegram_bot.py
 ## 🤝 Автор и контакты
 **Автор**: Sergei Dyshkant (SergD)
 - Telegram: [@sergei_dyshkant](https://t.me/sergei_dyshkant)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- GitHub: [github.com/wsgp2](https://github.com/wsgp2)
 
 ---
 
