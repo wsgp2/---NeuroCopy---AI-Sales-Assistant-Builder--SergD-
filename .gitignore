@@ -1,0 +1,42 @@
+# Исключение конфиденциальных файлов
+credentials.json
+token.json
+*.session
+*.session-journal
+.env
+
+# Исключение кэшей и временных файлов
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+
+# Исключение логов
+*.log
+
+# Исключение загруженных файлов
+downloads/
+data/
+
+# Исключение больших двоичных файлов
+*.mp4
+*.avi
+*.mov
+*.mp3
+*.wav
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+
+# Локальные настройки IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace

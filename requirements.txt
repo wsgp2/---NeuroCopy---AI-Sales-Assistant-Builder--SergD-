@@ -1,0 +1,11 @@
+telethon
+python-dotenv
+tqdm
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+loguru
+sentence-transformers
+chromadb
+openai
+python-telegram-bot
